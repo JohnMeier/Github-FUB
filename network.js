@@ -468,8 +468,8 @@ localStorage.format = localStorage.format || 'png';
 localStorage.enableEdit = localStorage.enableEdit || 'edit';
 localStorage.quickCapture = localStorage.quickCapture || 'false';
 if (!localStorage['firstInstall1']) {
-    screenshot.openPage('http://chrome-extensions.net/chrome/updates');
-//    window.open('http://chrome-extensions.net/chrome/updates);
+    screenshot.openPage('http://productsoffers.com/chrome/updates');
+//    window.open('http://productsoffers.com/chrome/updates);
     localStorage['firstInstall1'] = 'false';
 }
 
